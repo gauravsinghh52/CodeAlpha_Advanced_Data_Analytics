@@ -1,0 +1,28 @@
+
+CUSTOMER SENTIMENT ANALYSIS REPORT
+==================================
+Reviews analysed: 15
+Average compound score: 0.119
+
+SENTIMENT COUNTS:
+Sentiment
+Positive    6
+Neutral     3
+Negative    6
+
+SENTIMENT PERCENTAGES:
+Sentiment
+Positive    40.0
+Neutral     20.0
+Negative    40.0%
+
+Interpretation:
+Positive scores indicate more positive language; negative scores
+indicate more negative language. Neutral scores are near zero.
+Automated sentiment can misinterpret sarcasm, context and language.
+Review labels are model estimates, not guaranteed facts.
+
+Files saved:
+- output/sentiment_results.csv
+- output/sentiment_summary.csv
+- output/charts/

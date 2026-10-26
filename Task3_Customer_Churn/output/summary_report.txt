@@ -1,0 +1,28 @@
+
+ADVANCED SALES EDA REPORT
+=========================
+Rows analysed: 300
+Duplicate rows removed: Check cleaned dataset against original
+Missing values remaining: 0
+
+TOTAL SALES: 9,519,197.31
+AVERAGE SALE: 31,730.66
+TOTAL ORDERS/ROWS: 300
+
+TOP CATEGORY: Clothing
+TOP CITY: Kolkata
+
+SALES BY CATEGORY:
+Category
+Clothing       3057841.11
+Home           2271788.55
+Accessories    2269341.78
+Electronics    1920225.87
+
+SALES BY CITY:
+City
+Kolkata      2523605.06
+Bengaluru    2136449.39
+Mumbai       1755908.64
+Delhi        1698222.99
+Patna        1405011.23

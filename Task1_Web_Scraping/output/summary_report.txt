@@ -1,0 +1,6 @@
+WEB SCRAPING SUMMARY
+====================
+Books collected: 60
+Average price: £35.00
+Average rating: 3.00/5
+CSV file: output\books_data.csv
